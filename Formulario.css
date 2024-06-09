@@ -1,0 +1,19 @@
+.Contenedor{
+    border: 2px solid black;
+    border-radius: 10px;
+    width: 420px;
+    background: burlywood;
+    color: #fff;
+    padding: 30px 40 px;
+    padding: 10px;
+}
+.Consolas input{
+    border-radius: 10px;
+    display: flex;
+    border: 5px solid rgb(550, 550, 550, .2);
+    background: transparent;
+}
+.consolas h1{
+    font-size: 36px;
+    text-align: center;
+}
